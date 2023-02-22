@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Clients\" />
+    <None Remove="Dapper" />
+    <None Remove="Dapper.Contrib" />
+    <None Remove="Response\" />
+    <None Remove="Response\General\" />
+    <None Remove="Meetings\" />
+    <None Remove="Services\" />
+    <None Remove="General\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Clients\" />
+    <Folder Include="Response\" />
+    <Folder Include="Response\General\" />
+    <Folder Include="Meetings\" />
+    <Folder Include="Services\" />
+    <Folder Include="General\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+  </ItemGroup>
+</Project>

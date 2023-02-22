@@ -1,0 +1,13 @@
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.deps.json
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.AssemblyInfo.cs
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CopyComplete
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Projects/backend-gailgirl/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.pdb

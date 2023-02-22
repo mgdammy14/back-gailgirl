@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiUnitOfWork\ApiUnitOfWork.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Implementation\" />
+    <None Remove="Interfaces\Clients\" />
+    <None Remove="Implementation\Clients\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="System.Net.Http.Formatting.Extension" />
+    <None Remove="RestSharp" />
+    <None Remove="Interfaces\Services\" />
+    <None Remove="Implementation\Services\" />
+    <None Remove="Serilog" />
+    <None Remove="Interfaces\General\" />
+    <None Remove="WhatsappBusiness.CloudApi" />
+    <None Remove="Whatsapp.NET" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implementation\" />
+    <Folder Include="Interfaces\Clients\" />
+    <Folder Include="Implementation\Clients\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Implementation\Services\" />
+    <Folder Include="Interfaces\General\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="RestSharp" Version="108.0.3" />
+    <PackageReference Include="Serilog" Version="2.12.0" />
+    <PackageReference Include="WhatsappBusiness.CloudApi" Version="1.0.14" />
+    <PackageReference Include="Whatsapp.NET" Version="1.2.2" />
+  </ItemGroup>
+</Project>
